@@ -1,0 +1,5 @@
+faster-whisper>=1.1.1
+speechrecognition>=3.14.1
+torch==2.6.0+cu118
+torchaudio==2.6.0+cu118
+pydub==0.25.1
